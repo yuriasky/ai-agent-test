@@ -1,0 +1,24 @@
+{
+  "name": "ai-agent-test",
+  "version": "0.1.0",
+  "description": "SVG icon library. Figma is the source of truth; icons are optimized with SVGO.",
+  "private": true,
+  "type": "module",
+  "files": [
+    "icons"
+  ],
+  "scripts": {
+    "optimize": "svgo --config svgo.config.js -f icons -r",
+    "lint:names": "node scripts/check-names.js",
+    "check": "npm run lint:names && npm run optimize"
+  },
+  "keywords": [
+    "icons",
+    "svg",
+    "figma"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "svgo": "^4.1.0"
+  }
+}
