@@ -11,6 +11,16 @@ svgo.config.js    SVGO optimization settings
 icons.manifest.json  Fingerprint of each icon's raw Figma export (name, node id, hash)
 ```
 
+## Preview
+
+```sh
+npm run preview
+```
+
+Builds `preview/index.html` (not committed): a self-contained page showing every icon in `icons/`,
+grouped by Figma category, with search, size/color/theme controls, a 24px grid overlay and per-icon details.
+It's a snapshot — rebuild it after icons change.
+
 ## Change detection
 
 `icons.manifest.json` stores an FNV-1a hash (`scripts/fingerprint.js`) of every icon's **raw** Figma SVG export.

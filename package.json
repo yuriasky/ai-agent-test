@@ -10,7 +10,8 @@
   "scripts": {
     "optimize": "svgo --config svgo.config.js -f icons -r",
     "lint:names": "node scripts/check-names.js",
-    "check": "npm run lint:names && npm run optimize"
+    "check": "npm run lint:names && npm run optimize",
+    "preview": "node scripts/build-preview.js"
   },
   "keywords": [
     "icons",
