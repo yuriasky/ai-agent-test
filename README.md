@@ -8,7 +8,20 @@ SVG icon library. **Figma is the source of truth**; this repo holds the optimize
 icons/            Optimized SVGs, one file per icon, kebab-case names (e.g. arrow-left.svg)
 scripts/          Repo tooling (name checks)
 svgo.config.js    SVGO optimization settings
+icons.manifest.json  Fingerprint of each icon's raw Figma export (name, node id, hash)
 ```
+
+## Change detection
+
+`icons.manifest.json` stores an FNV-1a hash (`scripts/fingerprint.js`) of every icon's **raw** Figma SVG export.
+A sync first asks Figma only for names + hashes, then runs:
+
+```sh
+node scripts/compare-fingerprints.js fingerprints.tsv          # report added / changed / removed
+node scripts/compare-fingerprints.js fingerprints.tsv --write  # update the manifest after syncing
+```
+
+Only added and changed icons are exported and optimized. Removed icons are reported, never deleted automatically.
 
 ## Workflow: adding or updating an icon
 

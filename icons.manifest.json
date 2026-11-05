@@ -1,0 +1,2219 @@
+{
+  "source": {
+    "fileKey": "HMqohA2Tc18eMoIv5ixB6f",
+    "page": "0:1"
+  },
+  "hashAlgorithm": "fnv1a-32 of raw Figma SVG_STRING export",
+  "icons": {
+    "icon-arrow-arrow-circle-down-left.svg": {
+      "figmaName": "icon/Arrow / Arrow_Circle_Down_Left",
+      "nodeId": "1:1257",
+      "hash": "5b143fb1"
+    },
+    "icon-arrow-arrow-circle-down-right.svg": {
+      "figmaName": "icon/Arrow / Arrow_Circle_Down_Right",
+      "nodeId": "1:1245",
+      "hash": "7c859558"
+    },
+    "icon-arrow-arrow-circle-down.svg": {
+      "figmaName": "icon/Arrow / Arrow_Circle_Down",
+      "nodeId": "1:1281",
+      "hash": "a65cf26f"
+    },
+    "icon-arrow-arrow-circle-left.svg": {
+      "figmaName": "icon/Arrow / Arrow_Circle_Left",
+      "nodeId": "1:1269",
+      "hash": "8164d9f2"
+    },
+    "icon-arrow-arrow-circle-right.svg": {
+      "figmaName": "icon/Arrow / Arrow_Circle_Right",
+      "nodeId": "1:1263",
+      "hash": "e1b93455"
+    },
+    "icon-arrow-arrow-circle-up-left.svg": {
+      "figmaName": "icon/Arrow / Arrow_Circle_Up_Left",
+      "nodeId": "1:1251",
+      "hash": "e7531f3e"
+    },
+    "icon-arrow-arrow-circle-up-right.svg": {
+      "figmaName": "icon/Arrow / Arrow_Circle_Up_Right",
+      "nodeId": "1:1239",
+      "hash": "a23aaaac"
+    },
+    "icon-arrow-arrow-circle-up.svg": {
+      "figmaName": "icon/Arrow / Arrow_Circle_Up",
+      "nodeId": "1:1275",
+      "hash": "aa80dbab"
+    },
+    "icon-arrow-arrow-down-left-lg.svg": {
+      "figmaName": "icon/Arrow / Arrow_Down_Left_LG",
+      "nodeId": "1:1211",
+      "hash": "4389c899"
+    },
+    "icon-arrow-arrow-down-left-md.svg": {
+      "figmaName": "icon/Arrow / Arrow_Down_Left_MD",
+      "nodeId": "1:1209",
+      "hash": "1786cc49"
+    },
+    "icon-arrow-arrow-down-left-sm.svg": {
+      "figmaName": "icon/Arrow / Arrow_Down_Left_SM",
+      "nodeId": "1:1207",
+      "hash": "5c3c1f01"
+    },
+    "icon-arrow-arrow-down-lg.svg": {
+      "figmaName": "icon/Arrow / Arrow_Down_LG",
+      "nodeId": "1:1235",
+      "hash": "6902ffae"
+    },
+    "icon-arrow-arrow-down-md.svg": {
+      "figmaName": "icon/Arrow / Arrow_Down_MD",
+      "nodeId": "1:1233",
+      "hash": "dd60f662"
+    },
+    "icon-arrow-arrow-down-right-lg.svg": {
+      "figmaName": "icon/Arrow / Arrow_Down_Right_LG",
+      "nodeId": "1:1193",
+      "hash": "3a011c99"
+    },
+    "icon-arrow-arrow-down-right-md.svg": {
+      "figmaName": "icon/Arrow / Arrow_Down_Right_MD",
+      "nodeId": "1:1191",
+      "hash": "ab8ff35a"
+    },
+    "icon-arrow-arrow-down-right-sm.svg": {
+      "figmaName": "icon/Arrow / Arrow_Down_Right_SM",
+      "nodeId": "1:1189",
+      "hash": "49f2eb68"
+    },
+    "icon-arrow-arrow-down-sm.svg": {
+      "figmaName": "icon/Arrow / Arrow_Down_SM",
+      "nodeId": "1:1231",
+      "hash": "42e05f82"
+    },
+    "icon-arrow-arrow-down-up.svg": {
+      "figmaName": "icon/Arrow / Arrow_Down_Up",
+      "nodeId": "1:1169",
+      "hash": "9157a798"
+    },
+    "icon-arrow-arrow-left-lg.svg": {
+      "figmaName": "icon/Arrow / Arrow_Left_LG",
+      "nodeId": "1:1223",
+      "hash": "4d678580"
+    },
+    "icon-arrow-arrow-left-md.svg": {
+      "figmaName": "icon/Arrow / Arrow_Left_MD",
+      "nodeId": "1:1221",
+      "hash": "26d19182"
+    },
+    "icon-arrow-arrow-left-right.svg": {
+      "figmaName": "icon/Arrow / Arrow_Left_Right",
+      "nodeId": "1:1175",
+      "hash": "85c1c431"
+    },
+    "icon-arrow-arrow-left-sm.svg": {
+      "figmaName": "icon/Arrow / Arrow_Left_SM",
+      "nodeId": "1:1219",
+      "hash": "f7d9feaa"
+    },
+    "icon-arrow-arrow-reload-02.svg": {
+      "figmaName": "icon/Arrow / Arrow_Reload_02",
+      "nodeId": "1:1181",
+      "hash": "6a1393e2"
+    },
+    "icon-arrow-arrow-right-lg.svg": {
+      "figmaName": "icon/Arrow / Arrow_Right_LG",
+      "nodeId": "1:1217",
+      "hash": "89c7397a"
+    },
+    "icon-arrow-arrow-right-md.svg": {
+      "figmaName": "icon/Arrow / Arrow_Right_MD",
+      "nodeId": "1:1215",
+      "hash": "dc9b105e"
+    },
+    "icon-arrow-arrow-right-sm.svg": {
+      "figmaName": "icon/Arrow / Arrow_Right_SM",
+      "nodeId": "1:1213",
+      "hash": "c0a95463"
+    },
+    "icon-arrow-arrow-sub-down-left.svg": {
+      "figmaName": "icon/Arrow / Arrow_Sub_Down_Left",
+      "nodeId": "1:1267",
+      "hash": "d666cc95"
+    },
+    "icon-arrow-arrow-sub-down-right.svg": {
+      "figmaName": "icon/Arrow / Arrow_Sub_Down_Right",
+      "nodeId": "1:1279",
+      "hash": "0dbfd2cb"
+    },
+    "icon-arrow-arrow-sub-left-down.svg": {
+      "figmaName": "icon/Arrow / Arrow_Sub_Left_Down",
+      "nodeId": "1:1291",
+      "hash": "11e48420"
+    },
+    "icon-arrow-arrow-sub-left-up.svg": {
+      "figmaName": "icon/Arrow / Arrow_Sub_Left_Up",
+      "nodeId": "1:1285",
+      "hash": "6baf8e89"
+    },
+    "icon-arrow-arrow-sub-right-down.svg": {
+      "figmaName": "icon/Arrow / Arrow_Sub_Right_Down",
+      "nodeId": "1:1303",
+      "hash": "085a225a"
+    },
+    "icon-arrow-arrow-sub-right-up.svg": {
+      "figmaName": "icon/Arrow / Arrow_Sub_Right_Up",
+      "nodeId": "1:1297",
+      "hash": "222051f8"
+    },
+    "icon-arrow-arrow-sub-up-left.svg": {
+      "figmaName": "icon/Arrow / Arrow_Sub_Up_Left",
+      "nodeId": "1:1261",
+      "hash": "557a25a0"
+    },
+    "icon-arrow-arrow-sub-up-right.svg": {
+      "figmaName": "icon/Arrow / Arrow_Sub_Up_Right",
+      "nodeId": "1:1273",
+      "hash": "da0e0a15"
+    },
+    "icon-arrow-arrow-undo-down-left.svg": {
+      "figmaName": "icon/Arrow / Arrow_Undo_Down_Left",
+      "nodeId": "1:1243",
+      "hash": "dfcfd102"
+    },
+    "icon-arrow-arrow-undo-down-right.svg": {
+      "figmaName": "icon/Arrow / Arrow_Undo_Down_Right",
+      "nodeId": "1:1237",
+      "hash": "13ef509f"
+    },
+    "icon-arrow-arrow-undo-up-left.svg": {
+      "figmaName": "icon/Arrow / Arrow_Undo_Up_Left",
+      "nodeId": "1:1255",
+      "hash": "33e13c6b"
+    },
+    "icon-arrow-arrow-undo-up-right.svg": {
+      "figmaName": "icon/Arrow / Arrow_Undo_Up_Right",
+      "nodeId": "1:1249",
+      "hash": "f91c9ac2"
+    },
+    "icon-arrow-arrow-up-left-lg.svg": {
+      "figmaName": "icon/Arrow / Arrow_Up_Left_LG",
+      "nodeId": "1:1205",
+      "hash": "505bb416"
+    },
+    "icon-arrow-arrow-up-left-md.svg": {
+      "figmaName": "icon/Arrow / Arrow_Up_Left_MD",
+      "nodeId": "1:1203",
+      "hash": "f90e7056"
+    },
+    "icon-arrow-arrow-up-left-sm.svg": {
+      "figmaName": "icon/Arrow / Arrow_Up_Left_SM",
+      "nodeId": "1:1201",
+      "hash": "0da5a962"
+    },
+    "icon-arrow-arrow-up-lg.svg": {
+      "figmaName": "icon/Arrow / Arrow_Up_LG",
+      "nodeId": "1:1229",
+      "hash": "38f3041e"
+    },
+    "icon-arrow-arrow-up-md.svg": {
+      "figmaName": "icon/Arrow / Arrow_Up_MD",
+      "nodeId": "1:1227",
+      "hash": "9e55c16b"
+    },
+    "icon-arrow-arrow-up-right-lg.svg": {
+      "figmaName": "icon/Arrow / Arrow_Up_Right_LG",
+      "nodeId": "1:1199",
+      "hash": "e628383b"
+    },
+    "icon-arrow-arrow-up-right-md.svg": {
+      "figmaName": "icon/Arrow / Arrow_Up_Right_MD",
+      "nodeId": "1:1197",
+      "hash": "22438076"
+    },
+    "icon-arrow-arrow-up-right-sm.svg": {
+      "figmaName": "icon/Arrow / Arrow_Up_Right_SM",
+      "nodeId": "1:1195",
+      "hash": "19f8d0c4"
+    },
+    "icon-arrow-arrow-up-sm.svg": {
+      "figmaName": "icon/Arrow / Arrow_Up_SM",
+      "nodeId": "1:1225",
+      "hash": "d3b29ef2"
+    },
+    "icon-arrow-arrows-reload-01.svg": {
+      "figmaName": "icon/Arrow / Arrows_Reload_01",
+      "nodeId": "1:1187",
+      "hash": "5f854fda"
+    },
+    "icon-arrow-caret-circle-down.svg": {
+      "figmaName": "icon/Arrow / Caret_Circle_Down",
+      "nodeId": "1:1305",
+      "hash": "18081034"
+    },
+    "icon-arrow-caret-circle-left.svg": {
+      "figmaName": "icon/Arrow / Caret_Circle_Left",
+      "nodeId": "1:1293",
+      "hash": "4ab3acb2"
+    },
+    "icon-arrow-caret-circle-right.svg": {
+      "figmaName": "icon/Arrow / Caret_Circle_Right",
+      "nodeId": "1:1287",
+      "hash": "e6dc8dcc"
+    },
+    "icon-arrow-caret-circle-up.svg": {
+      "figmaName": "icon/Arrow / Caret_Circle_Up",
+      "nodeId": "1:1299",
+      "hash": "caefd43f"
+    },
+    "icon-arrow-caret-down-md.svg": {
+      "figmaName": "icon/Arrow / Caret_Down_MD",
+      "nodeId": "1:1307",
+      "hash": "10eebfbd"
+    },
+    "icon-arrow-caret-down-sm.svg": {
+      "figmaName": "icon/Arrow / Caret_Down_SM",
+      "nodeId": "1:1259",
+      "hash": "1058acea"
+    },
+    "icon-arrow-caret-left-sm.svg": {
+      "figmaName": "icon/Arrow / Caret_Left_SM",
+      "nodeId": "1:1247",
+      "hash": "8f774894"
+    },
+    "icon-arrow-caret-right-sm.svg": {
+      "figmaName": "icon/Arrow / Caret_Right_SM",
+      "nodeId": "1:1241",
+      "hash": "1dd3b58d"
+    },
+    "icon-arrow-caret-up-md.svg": {
+      "figmaName": "icon/Arrow / Caret_Up_MD",
+      "nodeId": "1:1301",
+      "hash": "8786ab99"
+    },
+    "icon-arrow-caret-up-sm.svg": {
+      "figmaName": "icon/Arrow / Caret_Up_SM",
+      "nodeId": "1:1253",
+      "hash": "f078e89f"
+    },
+    "icon-arrow-chevron-down-duo.svg": {
+      "figmaName": "icon/Arrow / Chevron_Down_Duo",
+      "nodeId": "1:1183",
+      "hash": "c5cec14b"
+    },
+    "icon-arrow-chevron-down.svg": {
+      "figmaName": "icon/Arrow / Chevron_Down",
+      "nodeId": "1:1283",
+      "hash": "e5f164a2"
+    },
+    "icon-arrow-chevron-left-duo.svg": {
+      "figmaName": "icon/Arrow / Chevron_Left_Duo",
+      "nodeId": "1:1171",
+      "hash": "134f60b0"
+    },
+    "icon-arrow-chevron-left-md.svg": {
+      "figmaName": "icon/Arrow / Chevron_Left_MD",
+      "nodeId": "1:1295",
+      "hash": "395e6e64"
+    },
+    "icon-arrow-chevron-left.svg": {
+      "figmaName": "icon/Arrow / Chevron_Left",
+      "nodeId": "1:1271",
+      "hash": "be245c38"
+    },
+    "icon-arrow-chevron-right-duo.svg": {
+      "figmaName": "icon/Arrow / Chevron_Right_Duo",
+      "nodeId": "1:1165",
+      "hash": "ff3f5461"
+    },
+    "icon-arrow-chevron-right-md.svg": {
+      "figmaName": "icon/Arrow / Chevron_Right_MD",
+      "nodeId": "1:1289",
+      "hash": "75ab4388"
+    },
+    "icon-arrow-chevron-right.svg": {
+      "figmaName": "icon/Arrow / Chevron_Right",
+      "nodeId": "1:1265",
+      "hash": "3827270a"
+    },
+    "icon-arrow-chevron-up-duo.svg": {
+      "figmaName": "icon/Arrow / Chevron_Up_Duo",
+      "nodeId": "1:1177",
+      "hash": "ff8cbe60"
+    },
+    "icon-arrow-chevron-up.svg": {
+      "figmaName": "icon/Arrow / Chevron_Up",
+      "nodeId": "1:1277",
+      "hash": "a5d6e9ec"
+    },
+    "icon-arrow-expand.svg": {
+      "figmaName": "icon/Arrow / Expand",
+      "nodeId": "1:1179",
+      "hash": "1f99fa13"
+    },
+    "icon-arrow-shrink.svg": {
+      "figmaName": "icon/Arrow / Shrink",
+      "nodeId": "1:1185",
+      "hash": "64252f26"
+    },
+    "icon-arrow-unfold-less.svg": {
+      "figmaName": "icon/Arrow / Unfold_Less",
+      "nodeId": "1:1173",
+      "hash": "0de75d8c"
+    },
+    "icon-arrow-unfold-more.svg": {
+      "figmaName": "icon/Arrow / Unfold_More",
+      "nodeId": "1:1167",
+      "hash": "e3d6d876"
+    },
+    "icon-calendar-alarm.svg": {
+      "figmaName": "icon/Calendar / Alarm",
+      "nodeId": "1:791",
+      "hash": "c623f980"
+    },
+    "icon-calendar-calendar-add.svg": {
+      "figmaName": "icon/Calendar / Calendar_Add",
+      "nodeId": "1:781",
+      "hash": "cd267559"
+    },
+    "icon-calendar-calendar-check.svg": {
+      "figmaName": "icon/Calendar / Calendar_Check",
+      "nodeId": "1:797",
+      "hash": "c7fb7d15"
+    },
+    "icon-calendar-calendar-close.svg": {
+      "figmaName": "icon/Calendar / Calendar_Close",
+      "nodeId": "1:787",
+      "hash": "0966f172"
+    },
+    "icon-calendar-calendar-days.svg": {
+      "figmaName": "icon/Calendar / Calendar_Days",
+      "nodeId": "1:801",
+      "hash": "91b68822"
+    },
+    "icon-calendar-calendar-event.svg": {
+      "figmaName": "icon/Calendar / Calendar_Event",
+      "nodeId": "1:795",
+      "hash": "0083579f"
+    },
+    "icon-calendar-calendar-remove.svg": {
+      "figmaName": "icon/Calendar / Calendar_Remove",
+      "nodeId": "1:783",
+      "hash": "24575d8d"
+    },
+    "icon-calendar-calendar-week.svg": {
+      "figmaName": "icon/Calendar / Calendar_Week",
+      "nodeId": "1:785",
+      "hash": "eac68f15"
+    },
+    "icon-calendar-calendar.svg": {
+      "figmaName": "icon/Calendar / Calendar",
+      "nodeId": "1:807",
+      "hash": "d773cbce"
+    },
+    "icon-calendar-clock.svg": {
+      "figmaName": "icon/Calendar / Clock",
+      "nodeId": "1:789",
+      "hash": "aed3fefe"
+    },
+    "icon-calendar-timer-add.svg": {
+      "figmaName": "icon/Calendar / Timer_Add",
+      "nodeId": "1:799",
+      "hash": "39d12635"
+    },
+    "icon-calendar-timer-close.svg": {
+      "figmaName": "icon/Calendar / Timer_Close",
+      "nodeId": "1:805",
+      "hash": "097d3ec9"
+    },
+    "icon-calendar-timer-remove.svg": {
+      "figmaName": "icon/Calendar / Timer_Remove",
+      "nodeId": "1:803",
+      "hash": "b50c39f6"
+    },
+    "icon-calendar-timer.svg": {
+      "figmaName": "icon/Calendar / Timer",
+      "nodeId": "1:793",
+      "hash": "c485f10b"
+    },
+    "icon-communication-bell-add.svg": {
+      "figmaName": "icon/Communication / Bell_Add",
+      "nodeId": "1:384",
+      "hash": "100e9789"
+    },
+    "icon-communication-bell-close.svg": {
+      "figmaName": "icon/Communication / Bell_Close",
+      "nodeId": "1:404",
+      "hash": "6e56042e"
+    },
+    "icon-communication-bell-notification.svg": {
+      "figmaName": "icon/Communication / Bell_Notification",
+      "nodeId": "1:380",
+      "hash": "d20fe93d"
+    },
+    "icon-communication-bell-off.svg": {
+      "figmaName": "icon/Communication / Bell_Off",
+      "nodeId": "1:382",
+      "hash": "efe756f1"
+    },
+    "icon-communication-bell-remove.svg": {
+      "figmaName": "icon/Communication / Bell_Remove",
+      "nodeId": "1:402",
+      "hash": "1f2f3356"
+    },
+    "icon-communication-bell-ring.svg": {
+      "figmaName": "icon/Communication / Bell_Ring",
+      "nodeId": "1:386",
+      "hash": "0faf28ab"
+    },
+    "icon-communication-bell.svg": {
+      "figmaName": "icon/Communication / Bell",
+      "nodeId": "1:400",
+      "hash": "144eb410"
+    },
+    "icon-communication-chat-add.svg": {
+      "figmaName": "icon/Communication / Chat_Add",
+      "nodeId": "1:376",
+      "hash": "c3643b30"
+    },
+    "icon-communication-chat-check.svg": {
+      "figmaName": "icon/Communication / Chat_Check",
+      "nodeId": "1:398",
+      "hash": "2b9d146e"
+    },
+    "icon-communication-chat-circle-add.svg": {
+      "figmaName": "icon/Communication / Chat_Circle_Add",
+      "nodeId": "1:396",
+      "hash": "a4c7405a"
+    },
+    "icon-communication-chat-circle-check.svg": {
+      "figmaName": "icon/Communication / Chat_Circle_Check",
+      "nodeId": "1:392",
+      "hash": "65009ff2"
+    },
+    "icon-communication-chat-circle-close.svg": {
+      "figmaName": "icon/Communication / Chat_Circle_Close",
+      "nodeId": "1:414",
+      "hash": "9f0f0092"
+    },
+    "icon-communication-chat-circle-dots.svg": {
+      "figmaName": "icon/Communication / Chat_Circle_Dots",
+      "nodeId": "1:366",
+      "hash": "4e4738b5"
+    },
+    "icon-communication-chat-circle-remove.svg": {
+      "figmaName": "icon/Communication / Chat_Circle_Remove",
+      "nodeId": "1:368",
+      "hash": "81ccb1c5"
+    },
+    "icon-communication-chat-circle.svg": {
+      "figmaName": "icon/Communication / Chat_Circle",
+      "nodeId": "1:364",
+      "hash": "1d0e97db"
+    },
+    "icon-communication-chat-close.svg": {
+      "figmaName": "icon/Communication / Chat_Close",
+      "nodeId": "1:388",
+      "hash": "89f19063"
+    },
+    "icon-communication-chat-conversation-circle.svg": {
+      "figmaName": "icon/Communication / Chat_Conversation_Circle",
+      "nodeId": "1:362",
+      "hash": "5ae83ade"
+    },
+    "icon-communication-chat-conversation.svg": {
+      "figmaName": "icon/Communication / Chat_Conversation",
+      "nodeId": "1:372",
+      "hash": "be35f651"
+    },
+    "icon-communication-chat-dots.svg": {
+      "figmaName": "icon/Communication / Chat_Dots",
+      "nodeId": "1:374",
+      "hash": "ab71e5d9"
+    },
+    "icon-communication-chat-remove.svg": {
+      "figmaName": "icon/Communication / Chat_Remove",
+      "nodeId": "1:390",
+      "hash": "af834e68"
+    },
+    "icon-communication-chat.svg": {
+      "figmaName": "icon/Communication / Chat",
+      "nodeId": "1:408",
+      "hash": "f461566c"
+    },
+    "icon-communication-mail-open.svg": {
+      "figmaName": "icon/Communication / Mail_Open",
+      "nodeId": "1:394",
+      "hash": "61253812"
+    },
+    "icon-communication-mail.svg": {
+      "figmaName": "icon/Communication / Mail",
+      "nodeId": "1:378",
+      "hash": "34dfadb2"
+    },
+    "icon-communication-paper-plane.svg": {
+      "figmaName": "icon/Communication / Paper_Plane",
+      "nodeId": "1:370",
+      "hash": "159825fe"
+    },
+    "icon-communication-phone.svg": {
+      "figmaName": "icon/Communication / Phone",
+      "nodeId": "1:410",
+      "hash": "7028c4a5"
+    },
+    "icon-communication-share-android.svg": {
+      "figmaName": "icon/Communication / Share_Android",
+      "nodeId": "1:412",
+      "hash": "22a445a6"
+    },
+    "icon-communication-share-ios-export.svg": {
+      "figmaName": "icon/Communication / Share_iOS_Export",
+      "nodeId": "1:406",
+      "hash": "e18de322"
+    },
+    "icon-edit-add-column.svg": {
+      "figmaName": "icon/Edit / Add_Column",
+      "nodeId": "1:671",
+      "hash": "ca998149"
+    },
+    "icon-edit-add-minus-square.svg": {
+      "figmaName": "icon/Edit / Add_Minus_Square",
+      "nodeId": "1:603",
+      "hash": "f206e975"
+    },
+    "icon-edit-add-plus-circle.svg": {
+      "figmaName": "icon/Edit / Add_Plus_Circle",
+      "nodeId": "1:601",
+      "hash": "c656624c"
+    },
+    "icon-edit-add-plus-square.svg": {
+      "figmaName": "icon/Edit / Add_Plus_Square",
+      "nodeId": "1:605",
+      "hash": "11b09a14"
+    },
+    "icon-edit-add-plus.svg": {
+      "figmaName": "icon/Edit / Add_Plus",
+      "nodeId": "1:597",
+      "hash": "c90b8b50"
+    },
+    "icon-edit-add-row.svg": {
+      "figmaName": "icon/Edit / Add_Row",
+      "nodeId": "1:695",
+      "hash": "889ea926"
+    },
+    "icon-edit-add-to-queue.svg": {
+      "figmaName": "icon/Edit / Add_To_Queue",
+      "nodeId": "1:687",
+      "hash": "7365ca5c"
+    },
+    "icon-edit-bold.svg": {
+      "figmaName": "icon/Edit / Bold",
+      "nodeId": "1:703",
+      "hash": "1470ac7c"
+    },
+    "icon-edit-close-circle.svg": {
+      "figmaName": "icon/Edit / Close_Circle",
+      "nodeId": "1:683",
+      "hash": "462b11e9"
+    },
+    "icon-edit-close-square.svg": {
+      "figmaName": "icon/Edit / Close_Square",
+      "nodeId": "1:607",
+      "hash": "ec159829"
+    },
+    "icon-edit-columns.svg": {
+      "figmaName": "icon/Edit / Columns",
+      "nodeId": "1:659",
+      "hash": "34051ff2"
+    },
+    "icon-edit-combine-cells.svg": {
+      "figmaName": "icon/Edit / Combine_Cells",
+      "nodeId": "1:641",
+      "hash": "c0ad504c"
+    },
+    "icon-edit-copy.svg": {
+      "figmaName": "icon/Edit / Copy",
+      "nodeId": "1:655",
+      "hash": "edd9d349"
+    },
+    "icon-edit-crop.svg": {
+      "figmaName": "icon/Edit / Crop",
+      "nodeId": "1:697",
+      "hash": "75d244f0"
+    },
+    "icon-edit-delete-column.svg": {
+      "figmaName": "icon/Edit / Delete_Column",
+      "nodeId": "1:647",
+      "hash": "adc7eaca"
+    },
+    "icon-edit-delete-row.svg": {
+      "figmaName": "icon/Edit / Delete_Row",
+      "nodeId": "1:645",
+      "hash": "fd3b1b90"
+    },
+    "icon-edit-double-quotes-l.svg": {
+      "figmaName": "icon/Edit / Double_Quotes_L",
+      "nodeId": "1:643",
+      "hash": "d52576a1"
+    },
+    "icon-edit-double-quotes-r.svg": {
+      "figmaName": "icon/Edit / Double_Quotes_R",
+      "nodeId": "1:701",
+      "hash": "26bdad28"
+    },
+    "icon-edit-edit-pencil-01.svg": {
+      "figmaName": "icon/Edit / Edit_Pencil_01",
+      "nodeId": "1:663",
+      "hash": "a5bcbd32"
+    },
+    "icon-edit-edit-pencil-02.svg": {
+      "figmaName": "icon/Edit / Edit_Pencil_02",
+      "nodeId": "1:677",
+      "hash": "acd62e8a"
+    },
+    "icon-edit-edit-pencil-line-01.svg": {
+      "figmaName": "icon/Edit / Edit_Pencil_Line_01",
+      "nodeId": "1:665",
+      "hash": "04a8af86"
+    },
+    "icon-edit-edit-pencil-line-02.svg": {
+      "figmaName": "icon/Edit / Edit_Pencil_Line_02",
+      "nodeId": "1:667",
+      "hash": "b69b02b8"
+    },
+    "icon-edit-figma.svg": {
+      "figmaName": "icon/Edit / Figma",
+      "nodeId": "1:563",
+      "hash": "39a9e1c8"
+    },
+    "icon-edit-font.svg": {
+      "figmaName": "icon/Edit / Font",
+      "nodeId": "1:631",
+      "hash": "c47a2529"
+    },
+    "icon-edit-heading-h1.svg": {
+      "figmaName": "icon/Edit / Heading_H1",
+      "nodeId": "1:627",
+      "hash": "863e0886"
+    },
+    "icon-edit-heading-h2.svg": {
+      "figmaName": "icon/Edit / Heading_H2",
+      "nodeId": "1:629",
+      "hash": "8309acb8"
+    },
+    "icon-edit-heading-h3.svg": {
+      "figmaName": "icon/Edit / Heading_H3",
+      "nodeId": "1:681",
+      "hash": "09dd60ab"
+    },
+    "icon-edit-heading-h4.svg": {
+      "figmaName": "icon/Edit / Heading_H4",
+      "nodeId": "1:679",
+      "hash": "ec647ae1"
+    },
+    "icon-edit-heading-h5.svg": {
+      "figmaName": "icon/Edit / Heading_H5",
+      "nodeId": "1:689",
+      "hash": "f07a526c"
+    },
+    "icon-edit-heading-h6.svg": {
+      "figmaName": "icon/Edit / Heading_H6",
+      "nodeId": "1:691",
+      "hash": "975895aa"
+    },
+    "icon-edit-heading.svg": {
+      "figmaName": "icon/Edit / Heading",
+      "nodeId": "1:625",
+      "hash": "5a80843d"
+    },
+    "icon-edit-hide.svg": {
+      "figmaName": "icon/Edit / Hide",
+      "nodeId": "1:609",
+      "hash": "2071b488"
+    },
+    "icon-edit-italic.svg": {
+      "figmaName": "icon/Edit / Italic",
+      "nodeId": "1:657",
+      "hash": "f805a854"
+    },
+    "icon-edit-layer.svg": {
+      "figmaName": "icon/Edit / Layer",
+      "nodeId": "1:567",
+      "hash": "7c9c05f4"
+    },
+    "icon-edit-layers.svg": {
+      "figmaName": "icon/Edit / Layers",
+      "nodeId": "1:569",
+      "hash": "c039dba6"
+    },
+    "icon-edit-list-add.svg": {
+      "figmaName": "icon/Edit / List_Add",
+      "nodeId": "1:585",
+      "hash": "39dda1be"
+    },
+    "icon-edit-list-check.svg": {
+      "figmaName": "icon/Edit / List_Check",
+      "nodeId": "1:579",
+      "hash": "c044d046"
+    },
+    "icon-edit-list-checklist.svg": {
+      "figmaName": "icon/Edit / List_Checklist",
+      "nodeId": "1:589",
+      "hash": "bcef0a3a"
+    },
+    "icon-edit-list-ordered.svg": {
+      "figmaName": "icon/Edit / List_Ordered",
+      "nodeId": "1:583",
+      "hash": "afb3779d"
+    },
+    "icon-edit-list-remove.svg": {
+      "figmaName": "icon/Edit / List_Remove",
+      "nodeId": "1:581",
+      "hash": "80307822"
+    },
+    "icon-edit-list-unordered.svg": {
+      "figmaName": "icon/Edit / List_Unordered",
+      "nodeId": "1:587",
+      "hash": "6382a7c4"
+    },
+    "icon-edit-mention.svg": {
+      "figmaName": "icon/Edit / Mention",
+      "nodeId": "1:619",
+      "hash": "15a0e352"
+    },
+    "icon-edit-move-horizontal.svg": {
+      "figmaName": "icon/Edit / Move_Horizontal",
+      "nodeId": "1:615",
+      "hash": "321d8d0c"
+    },
+    "icon-edit-move-vertical.svg": {
+      "figmaName": "icon/Edit / Move_Vertical",
+      "nodeId": "1:617",
+      "hash": "9630c125"
+    },
+    "icon-edit-move.svg": {
+      "figmaName": "icon/Edit / Move",
+      "nodeId": "1:613",
+      "hash": "96d9f27b"
+    },
+    "icon-edit-paperclip-attechment-horizontal.svg": {
+      "figmaName": "icon/Edit / Paperclip_Attechment_Horizontal",
+      "nodeId": "1:621",
+      "hash": "e548626c"
+    },
+    "icon-edit-paperclip-attechment-tilt.svg": {
+      "figmaName": "icon/Edit / Paperclip_Attechment_Tilt",
+      "nodeId": "1:623",
+      "hash": "0e1fe615"
+    },
+    "icon-edit-paragraph.svg": {
+      "figmaName": "icon/Edit / Paragraph",
+      "nodeId": "1:653",
+      "hash": "62fdf548"
+    },
+    "icon-edit-path.svg": {
+      "figmaName": "icon/Edit / Path",
+      "nodeId": "1:675",
+      "hash": "b63a2ed1"
+    },
+    "icon-edit-redo.svg": {
+      "figmaName": "icon/Edit / Redo",
+      "nodeId": "1:633",
+      "hash": "8a7fa60c"
+    },
+    "icon-edit-remove-minus-circle.svg": {
+      "figmaName": "icon/Edit / Remove_Minus_Circle",
+      "nodeId": "1:599",
+      "hash": "039e5333"
+    },
+    "icon-edit-remove-minus.svg": {
+      "figmaName": "icon/Edit / Remove_Minus",
+      "nodeId": "1:595",
+      "hash": "c5375325"
+    },
+    "icon-edit-rows.svg": {
+      "figmaName": "icon/Edit / Rows",
+      "nodeId": "1:699",
+      "hash": "7819153b"
+    },
+    "icon-edit-ruler.svg": {
+      "figmaName": "icon/Edit / Ruler",
+      "nodeId": "1:661",
+      "hash": "14023621"
+    },
+    "icon-edit-select-multiple.svg": {
+      "figmaName": "icon/Edit / Select_Multiple",
+      "nodeId": "1:565",
+      "hash": "2bce7296"
+    },
+    "icon-edit-show.svg": {
+      "figmaName": "icon/Edit / Show",
+      "nodeId": "1:611",
+      "hash": "0ae81399"
+    },
+    "icon-edit-single-quotes-l.svg": {
+      "figmaName": "icon/Edit / Single_Quotes_L",
+      "nodeId": "1:673",
+      "hash": "9f26f140"
+    },
+    "icon-edit-single-quotes-r.svg": {
+      "figmaName": "icon/Edit / Single_Quotes_R",
+      "nodeId": "1:651",
+      "hash": "d4241531"
+    },
+    "icon-edit-sort-ascending.svg": {
+      "figmaName": "icon/Edit / Sort_Ascending",
+      "nodeId": "1:591",
+      "hash": "8eb7a93f"
+    },
+    "icon-edit-sort-descending.svg": {
+      "figmaName": "icon/Edit / Sort_Descending",
+      "nodeId": "1:593",
+      "hash": "78051158"
+    },
+    "icon-edit-strikethrough.svg": {
+      "figmaName": "icon/Edit / Strikethrough",
+      "nodeId": "1:693",
+      "hash": "f08ac9b7"
+    },
+    "icon-edit-swatches-palette.svg": {
+      "figmaName": "icon/Edit / Swatches_Palette",
+      "nodeId": "1:669",
+      "hash": "b431f1cc"
+    },
+    "icon-edit-table-add.svg": {
+      "figmaName": "icon/Edit / Table_Add",
+      "nodeId": "1:639",
+      "hash": "926756e4"
+    },
+    "icon-edit-table-remove.svg": {
+      "figmaName": "icon/Edit / Table_Remove",
+      "nodeId": "1:705",
+      "hash": "25c56ba2"
+    },
+    "icon-edit-table.svg": {
+      "figmaName": "icon/Edit / Table",
+      "nodeId": "1:637",
+      "hash": "06bd1c89"
+    },
+    "icon-edit-text-align-center.svg": {
+      "figmaName": "icon/Edit / Text_Align_Center",
+      "nodeId": "1:575",
+      "hash": "9eaa7173"
+    },
+    "icon-edit-text-align-justify.svg": {
+      "figmaName": "icon/Edit / Text_Align_Justify",
+      "nodeId": "1:577",
+      "hash": "53d2fd61"
+    },
+    "icon-edit-text-align-left.svg": {
+      "figmaName": "icon/Edit / Text_Align_Left",
+      "nodeId": "1:571",
+      "hash": "29b9bc1f"
+    },
+    "icon-edit-text-align-right.svg": {
+      "figmaName": "icon/Edit / Text_Align_Right",
+      "nodeId": "1:573",
+      "hash": "24188453"
+    },
+    "icon-edit-text.svg": {
+      "figmaName": "icon/Edit / Text",
+      "nodeId": "1:685",
+      "hash": "985b0495"
+    },
+    "icon-edit-underline.svg": {
+      "figmaName": "icon/Edit / Underline",
+      "nodeId": "1:649",
+      "hash": "935e5bcd"
+    },
+    "icon-edit-undo.svg": {
+      "figmaName": "icon/Edit / Undo",
+      "nodeId": "1:635",
+      "hash": "b34bfa30"
+    },
+    "icon-environment-bulb.svg": {
+      "figmaName": "icon/Environment / Bulb",
+      "nodeId": "1:295",
+      "hash": "4938ba20"
+    },
+    "icon-environment-coffe-to-go.svg": {
+      "figmaName": "icon/Environment / Coffe_To_Go",
+      "nodeId": "1:277",
+      "hash": "34d84426"
+    },
+    "icon-environment-coffee.svg": {
+      "figmaName": "icon/Environment / Coffee",
+      "nodeId": "1:279",
+      "hash": "aaca1ffe"
+    },
+    "icon-environment-cookie.svg": {
+      "figmaName": "icon/Environment / Cookie",
+      "nodeId": "1:271",
+      "hash": "55b953a7"
+    },
+    "icon-environment-cupcake.svg": {
+      "figmaName": "icon/Environment / Cupcake",
+      "nodeId": "1:275",
+      "hash": "0e268938"
+    },
+    "icon-environment-first-aid.svg": {
+      "figmaName": "icon/Environment / First_Aid",
+      "nodeId": "1:291",
+      "hash": "78276ed6"
+    },
+    "icon-environment-leaf.svg": {
+      "figmaName": "icon/Environment / Leaf",
+      "nodeId": "1:281",
+      "hash": "694b5d41"
+    },
+    "icon-environment-moon.svg": {
+      "figmaName": "icon/Environment / Moon",
+      "nodeId": "1:285",
+      "hash": "2e443b13"
+    },
+    "icon-environment-planet.svg": {
+      "figmaName": "icon/Environment / Planet",
+      "nodeId": "1:289",
+      "hash": "a7c9917d"
+    },
+    "icon-environment-puzzle.svg": {
+      "figmaName": "icon/Environment / Puzzle",
+      "nodeId": "1:273",
+      "hash": "bd412407"
+    },
+    "icon-environment-rainbow.svg": {
+      "figmaName": "icon/Environment / Rainbow",
+      "nodeId": "1:287",
+      "hash": "96309b28"
+    },
+    "icon-environment-sun.svg": {
+      "figmaName": "icon/Environment / Sun",
+      "nodeId": "1:283",
+      "hash": "daddf931"
+    },
+    "icon-environment-water-drop.svg": {
+      "figmaName": "icon/Environment / Water_Drop",
+      "nodeId": "1:293",
+      "hash": "90e79efd"
+    },
+    "icon-file-archive.svg": {
+      "figmaName": "icon/File / Archive",
+      "nodeId": "1:1104",
+      "hash": "7e1f720c"
+    },
+    "icon-file-cloud-add.svg": {
+      "figmaName": "icon/File / Cloud_Add",
+      "nodeId": "1:1060",
+      "hash": "cc371ffc"
+    },
+    "icon-file-cloud-check.svg": {
+      "figmaName": "icon/File / Cloud_Check",
+      "nodeId": "1:1050",
+      "hash": "5c83fe06"
+    },
+    "icon-file-cloud-close.svg": {
+      "figmaName": "icon/File / Cloud_Close",
+      "nodeId": "1:1052",
+      "hash": "1872bf38"
+    },
+    "icon-file-cloud-download.svg": {
+      "figmaName": "icon/File / Cloud_Download",
+      "nodeId": "1:1054",
+      "hash": "c0081694"
+    },
+    "icon-file-cloud-off.svg": {
+      "figmaName": "icon/File / Cloud_Off",
+      "nodeId": "1:1048",
+      "hash": "340d3518"
+    },
+    "icon-file-cloud-remove.svg": {
+      "figmaName": "icon/File / Cloud_Remove",
+      "nodeId": "1:1058",
+      "hash": "211a36d9"
+    },
+    "icon-file-cloud-upload.svg": {
+      "figmaName": "icon/File / Cloud_Upload",
+      "nodeId": "1:1056",
+      "hash": "62f73646"
+    },
+    "icon-file-cloud.svg": {
+      "figmaName": "icon/File / Cloud",
+      "nodeId": "1:1046",
+      "hash": "1712f7e4"
+    },
+    "icon-file-download-package.svg": {
+      "figmaName": "icon/File / Download_Package",
+      "nodeId": "1:1116",
+      "hash": "f4adb19b"
+    },
+    "icon-file-file-add.svg": {
+      "figmaName": "icon/File / File_Add",
+      "nodeId": "1:1068",
+      "hash": "6b2bfe80"
+    },
+    "icon-file-file-blank.svg": {
+      "figmaName": "icon/File / File_Blank",
+      "nodeId": "1:1122",
+      "hash": "bc023213"
+    },
+    "icon-file-file-check.svg": {
+      "figmaName": "icon/File / File_Check",
+      "nodeId": "1:1062",
+      "hash": "c8d36b68"
+    },
+    "icon-file-file-close.svg": {
+      "figmaName": "icon/File / File_Close",
+      "nodeId": "1:1064",
+      "hash": "e3ad6139"
+    },
+    "icon-file-file-code.svg": {
+      "figmaName": "icon/File / File_Code",
+      "nodeId": "1:1070",
+      "hash": "a82c5354"
+    },
+    "icon-file-file-document.svg": {
+      "figmaName": "icon/File / File_Document",
+      "nodeId": "1:1072",
+      "hash": "aa98b03d"
+    },
+    "icon-file-file-download.svg": {
+      "figmaName": "icon/File / File_Download",
+      "nodeId": "1:1110",
+      "hash": "851733a4"
+    },
+    "icon-file-file-edit.svg": {
+      "figmaName": "icon/File / File_Edit",
+      "nodeId": "1:1114",
+      "hash": "8c984ea9"
+    },
+    "icon-file-file-remove.svg": {
+      "figmaName": "icon/File / File_Remove",
+      "nodeId": "1:1066",
+      "hash": "2a50c44a"
+    },
+    "icon-file-file-search.svg": {
+      "figmaName": "icon/File / File_Search",
+      "nodeId": "1:1074",
+      "hash": "82646291"
+    },
+    "icon-file-file-upload.svg": {
+      "figmaName": "icon/File / File_Upload",
+      "nodeId": "1:1108",
+      "hash": "bf527252"
+    },
+    "icon-file-files.svg": {
+      "figmaName": "icon/File / Files",
+      "nodeId": "1:1076",
+      "hash": "b7c6fe3a"
+    },
+    "icon-file-folder-add.svg": {
+      "figmaName": "icon/File / Folder_Add",
+      "nodeId": "1:1094",
+      "hash": "7195c15d"
+    },
+    "icon-file-folder-check.svg": {
+      "figmaName": "icon/File / Folder_Check",
+      "nodeId": "1:1084",
+      "hash": "d6f552a8"
+    },
+    "icon-file-folder-close.svg": {
+      "figmaName": "icon/File / Folder_Close",
+      "nodeId": "1:1086",
+      "hash": "dcc9fecf"
+    },
+    "icon-file-folder-code.svg": {
+      "figmaName": "icon/File / Folder_Code",
+      "nodeId": "1:1096",
+      "hash": "a415d600"
+    },
+    "icon-file-folder-document.svg": {
+      "figmaName": "icon/File / Folder_Document",
+      "nodeId": "1:1118",
+      "hash": "b3ebe36a"
+    },
+    "icon-file-folder-download.svg": {
+      "figmaName": "icon/File / Folder_Download",
+      "nodeId": "1:1088",
+      "hash": "07a0c326"
+    },
+    "icon-file-folder-edit.svg": {
+      "figmaName": "icon/File / Folder_Edit",
+      "nodeId": "1:1100",
+      "hash": "2b5bc0fb"
+    },
+    "icon-file-folder-open.svg": {
+      "figmaName": "icon/File / Folder_Open",
+      "nodeId": "1:1120",
+      "hash": "30971e65"
+    },
+    "icon-file-folder-remove.svg": {
+      "figmaName": "icon/File / Folder_Remove",
+      "nodeId": "1:1092",
+      "hash": "363c3a22"
+    },
+    "icon-file-folder-search.svg": {
+      "figmaName": "icon/File / Folder_Search",
+      "nodeId": "1:1098",
+      "hash": "2a07e85e"
+    },
+    "icon-file-folder-upload.svg": {
+      "figmaName": "icon/File / Folder_Upload",
+      "nodeId": "1:1090",
+      "hash": "5839b577"
+    },
+    "icon-file-folder.svg": {
+      "figmaName": "icon/File / Folder",
+      "nodeId": "1:1082",
+      "hash": "0ead4327"
+    },
+    "icon-file-folders.svg": {
+      "figmaName": "icon/File / Folders",
+      "nodeId": "1:1102",
+      "hash": "e885f4c2"
+    },
+    "icon-file-note-edit.svg": {
+      "figmaName": "icon/File / Note_Edit",
+      "nodeId": "1:1106",
+      "hash": "4223007e"
+    },
+    "icon-file-note-search.svg": {
+      "figmaName": "icon/File / Note_Search",
+      "nodeId": "1:1078",
+      "hash": "b6c952d1"
+    },
+    "icon-file-note.svg": {
+      "figmaName": "icon/File / Note",
+      "nodeId": "1:1112",
+      "hash": "80184130"
+    },
+    "icon-file-notebook.svg": {
+      "figmaName": "icon/File / Notebook",
+      "nodeId": "1:1080",
+      "hash": "2494f913"
+    },
+    "icon-interface-book-open.svg": {
+      "figmaName": "icon/Interface / Book_Open",
+      "nodeId": "1:895",
+      "hash": "9fedd9d8"
+    },
+    "icon-interface-book.svg": {
+      "figmaName": "icon/Interface / Book",
+      "nodeId": "1:937",
+      "hash": "995b3a63"
+    },
+    "icon-interface-bookmark.svg": {
+      "figmaName": "icon/Interface / Bookmark",
+      "nodeId": "1:879",
+      "hash": "65de55c8"
+    },
+    "icon-interface-chart-bar-horizontal-01.svg": {
+      "figmaName": "icon/Interface / Chart_Bar_Horizontal_01",
+      "nodeId": "1:969",
+      "hash": "98be6fe7"
+    },
+    "icon-interface-chart-bar-vertical-01.svg": {
+      "figmaName": "icon/Interface / Chart_Bar_Vertical_01",
+      "nodeId": "1:947",
+      "hash": "85f45bb8"
+    },
+    "icon-interface-chart-line.svg": {
+      "figmaName": "icon/Interface / Chart_Line",
+      "nodeId": "1:913",
+      "hash": "0c705108"
+    },
+    "icon-interface-chart-pie.svg": {
+      "figmaName": "icon/Interface / Chart_Pie",
+      "nodeId": "1:967",
+      "hash": "fa8d3d54"
+    },
+    "icon-interface-check-all-big.svg": {
+      "figmaName": "icon/Interface / Check_All_Big",
+      "nodeId": "1:845",
+      "hash": "ae16a6e1"
+    },
+    "icon-interface-check-all.svg": {
+      "figmaName": "icon/Interface / Check_All",
+      "nodeId": "1:841",
+      "hash": "37393b4c"
+    },
+    "icon-interface-check-big.svg": {
+      "figmaName": "icon/Interface / Check_Big",
+      "nodeId": "1:843",
+      "hash": "76ea163d"
+    },
+    "icon-interface-check.svg": {
+      "figmaName": "icon/Interface / Check",
+      "nodeId": "1:839",
+      "hash": "bcd50297"
+    },
+    "icon-interface-checkbox-check.svg": {
+      "figmaName": "icon/Interface / Checkbox_Check",
+      "nodeId": "1:939",
+      "hash": "60dc33fa"
+    },
+    "icon-interface-checkbox-fill.svg": {
+      "figmaName": "icon/Interface / Checkbox_Fill",
+      "nodeId": "1:953",
+      "hash": "df1fbf91"
+    },
+    "icon-interface-checkbox-unchecked.svg": {
+      "figmaName": "icon/Interface / Checkbox_Unchecked",
+      "nodeId": "1:865",
+      "hash": "95b82e69"
+    },
+    "icon-interface-command.svg": {
+      "figmaName": "icon/Interface / Command",
+      "nodeId": "1:883",
+      "hash": "49bbff2c"
+    },
+    "icon-interface-credit-card-01.svg": {
+      "figmaName": "icon/Interface / Credit_Card_01",
+      "nodeId": "1:871",
+      "hash": "a8a6ed13"
+    },
+    "icon-interface-credit-card-02.svg": {
+      "figmaName": "icon/Interface / Credit_Card_02",
+      "nodeId": "1:873",
+      "hash": "ec60cb43"
+    },
+    "icon-interface-download.svg": {
+      "figmaName": "icon/Interface / Download",
+      "nodeId": "1:847",
+      "hash": "fa0a600a"
+    },
+    "icon-interface-drag-horizontal.svg": {
+      "figmaName": "icon/Interface / Drag_Horizontal",
+      "nodeId": "1:875",
+      "hash": "882c410a"
+    },
+    "icon-interface-drag-vertical.svg": {
+      "figmaName": "icon/Interface / Drag_Vertical",
+      "nodeId": "1:957",
+      "hash": "ad795fd4"
+    },
+    "icon-interface-dummy-circle-small.svg": {
+      "figmaName": "icon/Interface / Dummy_Circle_Small",
+      "nodeId": "1:903",
+      "hash": "cb6600d6"
+    },
+    "icon-interface-dummy-circle.svg": {
+      "figmaName": "icon/Interface / Dummy_Circle",
+      "nodeId": "1:899",
+      "hash": "ff5e5a6a"
+    },
+    "icon-interface-dummy-square-small.svg": {
+      "figmaName": "icon/Interface / Dummy_Square_Small",
+      "nodeId": "1:901",
+      "hash": "8873ba93"
+    },
+    "icon-interface-dummy-square.svg": {
+      "figmaName": "icon/Interface / Dummy_Square",
+      "nodeId": "1:897",
+      "hash": "92104a9d"
+    },
+    "icon-interface-exit.svg": {
+      "figmaName": "icon/Interface / Exit",
+      "nodeId": "1:837",
+      "hash": "db6ca002"
+    },
+    "icon-interface-external-link.svg": {
+      "figmaName": "icon/Interface / External_Link",
+      "nodeId": "1:829",
+      "hash": "0052eb88"
+    },
+    "icon-interface-filter-off.svg": {
+      "figmaName": "icon/Interface / Filter_Off",
+      "nodeId": "1:959",
+      "hash": "23bcb4f9"
+    },
+    "icon-interface-filter.svg": {
+      "figmaName": "icon/Interface / Filter",
+      "nodeId": "1:893",
+      "hash": "48f7feed"
+    },
+    "icon-interface-gift.svg": {
+      "figmaName": "icon/Interface / Gift",
+      "nodeId": "1:919",
+      "hash": "357b7bf0"
+    },
+    "icon-interface-handbag.svg": {
+      "figmaName": "icon/Interface / Handbag",
+      "nodeId": "1:945",
+      "hash": "f1fee071"
+    },
+    "icon-interface-heart-01.svg": {
+      "figmaName": "icon/Interface / Heart_01",
+      "nodeId": "1:857",
+      "hash": "c903d5a7"
+    },
+    "icon-interface-heart-02.svg": {
+      "figmaName": "icon/Interface / Heart_02",
+      "nodeId": "1:859",
+      "hash": "ba3cbb29"
+    },
+    "icon-interface-instance.svg": {
+      "figmaName": "icon/Interface / Instance",
+      "nodeId": "1:921",
+      "hash": "221a4470"
+    },
+    "icon-interface-label.svg": {
+      "figmaName": "icon/Interface / Label",
+      "nodeId": "1:963",
+      "hash": "2a704d87"
+    },
+    "icon-interface-line-l.svg": {
+      "figmaName": "icon/Interface / Line_L",
+      "nodeId": "1:907",
+      "hash": "be384605"
+    },
+    "icon-interface-line-m.svg": {
+      "figmaName": "icon/Interface / Line_M",
+      "nodeId": "1:909",
+      "hash": "a4706642"
+    },
+    "icon-interface-line-s.svg": {
+      "figmaName": "icon/Interface / Line_S",
+      "nodeId": "1:911",
+      "hash": "02580d10"
+    },
+    "icon-interface-line-xl.svg": {
+      "figmaName": "icon/Interface / Line_Xl",
+      "nodeId": "1:905",
+      "hash": "44ef5780"
+    },
+    "icon-interface-link-break.svg": {
+      "figmaName": "icon/Interface / Link_Break",
+      "nodeId": "1:955",
+      "hash": "79826439"
+    },
+    "icon-interface-link-horizontal-off.svg": {
+      "figmaName": "icon/Interface / Link_Horizontal_Off",
+      "nodeId": "1:831",
+      "hash": "4e5f6d90"
+    },
+    "icon-interface-link-horizontal.svg": {
+      "figmaName": "icon/Interface / Link_Horizontal",
+      "nodeId": "1:833",
+      "hash": "3794dab1"
+    },
+    "icon-interface-link-vertical.svg": {
+      "figmaName": "icon/Interface / Link_Vertical",
+      "nodeId": "1:835",
+      "hash": "8d75ada1"
+    },
+    "icon-interface-link.svg": {
+      "figmaName": "icon/Interface / Link",
+      "nodeId": "1:933",
+      "hash": "ee73aee3"
+    },
+    "icon-interface-loading.svg": {
+      "figmaName": "icon/Interface / Loading",
+      "nodeId": "1:869",
+      "hash": "e0149374"
+    },
+    "icon-interface-lock-open.svg": {
+      "figmaName": "icon/Interface / Lock_Open",
+      "nodeId": "1:827",
+      "hash": "bcf33237"
+    },
+    "icon-interface-lock.svg": {
+      "figmaName": "icon/Interface / Lock",
+      "nodeId": "1:825",
+      "hash": "16094e7c"
+    },
+    "icon-interface-log-out.svg": {
+      "figmaName": "icon/Interface / Log_Out",
+      "nodeId": "1:965",
+      "hash": "4834f90a"
+    },
+    "icon-interface-magnifying-glass-minus.svg": {
+      "figmaName": "icon/Interface / Magnifying_Glass_Minus",
+      "nodeId": "1:889",
+      "hash": "ea45452b"
+    },
+    "icon-interface-magnifying-glass-plus.svg": {
+      "figmaName": "icon/Interface / Magnifying_Glass_Plus",
+      "nodeId": "1:891",
+      "hash": "83696b75"
+    },
+    "icon-interface-main-component.svg": {
+      "figmaName": "icon/Interface / Main_Component",
+      "nodeId": "1:923",
+      "hash": "30bc11f3"
+    },
+    "icon-interface-option.svg": {
+      "figmaName": "icon/Interface / Option",
+      "nodeId": "1:885",
+      "hash": "0b35e80d"
+    },
+    "icon-interface-radio-fill.svg": {
+      "figmaName": "icon/Interface / Radio_Fill",
+      "nodeId": "1:867",
+      "hash": "7de130b9"
+    },
+    "icon-interface-radio-unchecked.svg": {
+      "figmaName": "icon/Interface / Radio_Unchecked",
+      "nodeId": "1:863",
+      "hash": "a76165c5"
+    },
+    "icon-interface-search-magnifying-glass.svg": {
+      "figmaName": "icon/Interface / Search_Magnifying_Glass",
+      "nodeId": "1:887",
+      "hash": "90e3c2ef"
+    },
+    "icon-interface-settings-future.svg": {
+      "figmaName": "icon/Interface / Settings_Future",
+      "nodeId": "1:851",
+      "hash": "bd92b857"
+    },
+    "icon-interface-settings.svg": {
+      "figmaName": "icon/Interface / Settings",
+      "nodeId": "1:861",
+      "hash": "19265d80"
+    },
+    "icon-interface-shopping-bag-01.svg": {
+      "figmaName": "icon/Interface / Shopping_Bag_01",
+      "nodeId": "1:927",
+      "hash": "a3a10a77"
+    },
+    "icon-interface-shopping-bag-02.svg": {
+      "figmaName": "icon/Interface / Shopping_Bag_02",
+      "nodeId": "1:929",
+      "hash": "a4ab67e9"
+    },
+    "icon-interface-shopping-cart-01.svg": {
+      "figmaName": "icon/Interface / Shopping_Cart_01",
+      "nodeId": "1:949",
+      "hash": "e39cd4e9"
+    },
+    "icon-interface-shopping-cart-02.svg": {
+      "figmaName": "icon/Interface / Shopping_Cart_02",
+      "nodeId": "1:931",
+      "hash": "2af13016"
+    },
+    "icon-interface-slider-01.svg": {
+      "figmaName": "icon/Interface / Slider_01",
+      "nodeId": "1:853",
+      "hash": "0c10211d"
+    },
+    "icon-interface-slider-02.svg": {
+      "figmaName": "icon/Interface / Slider_02",
+      "nodeId": "1:855",
+      "hash": "dc32b6e1"
+    },
+    "icon-interface-slider-03.svg": {
+      "figmaName": "icon/Interface / Slider_03",
+      "nodeId": "1:935",
+      "hash": "f79b4934"
+    },
+    "icon-interface-star.svg": {
+      "figmaName": "icon/Interface / Star",
+      "nodeId": "1:849",
+      "hash": "957bf17b"
+    },
+    "icon-interface-suitcase.svg": {
+      "figmaName": "icon/Interface / Suitcase",
+      "nodeId": "1:925",
+      "hash": "f270a6a7"
+    },
+    "icon-interface-swicht-left.svg": {
+      "figmaName": "icon/Interface / Swicht_Left",
+      "nodeId": "1:881",
+      "hash": "39a9acb3"
+    },
+    "icon-interface-swicht-right.svg": {
+      "figmaName": "icon/Interface / Swicht_Right",
+      "nodeId": "1:961",
+      "hash": "57edcd67"
+    },
+    "icon-interface-tag.svg": {
+      "figmaName": "icon/Interface / Tag",
+      "nodeId": "1:877",
+      "hash": "dad63117"
+    },
+    "icon-interface-ticket-voucher.svg": {
+      "figmaName": "icon/Interface / Ticket_Voucher",
+      "nodeId": "1:943",
+      "hash": "90dad946"
+    },
+    "icon-interface-trash-empty.svg": {
+      "figmaName": "icon/Interface / Trash_Empty",
+      "nodeId": "1:951",
+      "hash": "329d5be1"
+    },
+    "icon-interface-trash-full.svg": {
+      "figmaName": "icon/Interface / Trash_Full",
+      "nodeId": "1:941",
+      "hash": "fded7afd"
+    },
+    "icon-interface-trending-down.svg": {
+      "figmaName": "icon/Interface / Trending_Down",
+      "nodeId": "1:915",
+      "hash": "447aea73"
+    },
+    "icon-interface-trending-up.svg": {
+      "figmaName": "icon/Interface / Trending_Up",
+      "nodeId": "1:917",
+      "hash": "89bf4d17"
+    },
+    "icon-media-airplay.svg": {
+      "figmaName": "icon/Media / Airplay",
+      "nodeId": "1:49",
+      "hash": "670e2790"
+    },
+    "icon-media-chromecast.svg": {
+      "figmaName": "icon/Media / Chromecast",
+      "nodeId": "1:51",
+      "hash": "eb25cfbe"
+    },
+    "icon-media-forward.svg": {
+      "figmaName": "icon/Media / Forward",
+      "nodeId": "1:67",
+      "hash": "555f273c"
+    },
+    "icon-media-headphones.svg": {
+      "figmaName": "icon/Media / Headphones",
+      "nodeId": "1:71",
+      "hash": "00d8e361"
+    },
+    "icon-media-image-01.svg": {
+      "figmaName": "icon/Media / Image_01",
+      "nodeId": "1:69",
+      "hash": "de343cc2"
+    },
+    "icon-media-image-02.svg": {
+      "figmaName": "icon/Media / Image_02",
+      "nodeId": "1:65",
+      "hash": "bdadc774"
+    },
+    "icon-media-pause-circle.svg": {
+      "figmaName": "icon/Media / Pause_Circle",
+      "nodeId": "1:75",
+      "hash": "18bf2da6"
+    },
+    "icon-media-pause.svg": {
+      "figmaName": "icon/Media / Pause",
+      "nodeId": "1:63",
+      "hash": "8bca17f7"
+    },
+    "icon-media-play-circle.svg": {
+      "figmaName": "icon/Media / Play_Circle",
+      "nodeId": "1:53",
+      "hash": "4b2263f9"
+    },
+    "icon-media-play.svg": {
+      "figmaName": "icon/Media / Play",
+      "nodeId": "1:61",
+      "hash": "1aa9e459"
+    },
+    "icon-media-rewind.svg": {
+      "figmaName": "icon/Media / Rewind",
+      "nodeId": "1:57",
+      "hash": "4a8d9be5"
+    },
+    "icon-media-shuffle.svg": {
+      "figmaName": "icon/Media / Shuffle",
+      "nodeId": "1:73",
+      "hash": "480ccfde"
+    },
+    "icon-media-skip-back.svg": {
+      "figmaName": "icon/Media / Skip_Back",
+      "nodeId": "1:59",
+      "hash": "e4e14a52"
+    },
+    "icon-media-skip-forward.svg": {
+      "figmaName": "icon/Media / Skip_Forward",
+      "nodeId": "1:77",
+      "hash": "35005a2c"
+    },
+    "icon-media-stop-circle.svg": {
+      "figmaName": "icon/Media / Stop_Circle",
+      "nodeId": "1:55",
+      "hash": "b1a93439"
+    },
+    "icon-media-stop.svg": {
+      "figmaName": "icon/Media / Stop",
+      "nodeId": "1:79",
+      "hash": "3ec48494"
+    },
+    "icon-media-volume-max.svg": {
+      "figmaName": "icon/Media / Volume_Max",
+      "nodeId": "1:101",
+      "hash": "3224977b"
+    },
+    "icon-media-volume-min.svg": {
+      "figmaName": "icon/Media / Volume_Min",
+      "nodeId": "1:105",
+      "hash": "e9ff251d"
+    },
+    "icon-media-volume-minus.svg": {
+      "figmaName": "icon/Media / Volume_Minus",
+      "nodeId": "1:97",
+      "hash": "c142b8b8"
+    },
+    "icon-media-volume-off-02.svg": {
+      "figmaName": "icon/Media / Volume_Off_02",
+      "nodeId": "1:99",
+      "hash": "c570bc6a"
+    },
+    "icon-media-volume-off.svg": {
+      "figmaName": "icon/Media / Volume_Off",
+      "nodeId": "1:107",
+      "hash": "955c6271"
+    },
+    "icon-media-volume-plus.svg": {
+      "figmaName": "icon/Media / Volume_Plus",
+      "nodeId": "1:103",
+      "hash": "fd12d170"
+    },
+    "icon-menu-close-lg.svg": {
+      "figmaName": "icon/Menu / Close_LG",
+      "nodeId": "1:312",
+      "hash": "dad59a22"
+    },
+    "icon-menu-close-md.svg": {
+      "figmaName": "icon/Menu / Close_MD",
+      "nodeId": "1:340",
+      "hash": "c9b0f78b"
+    },
+    "icon-menu-close-sm.svg": {
+      "figmaName": "icon/Menu / Close_SM",
+      "nodeId": "1:336",
+      "hash": "81e24205"
+    },
+    "icon-menu-hamburger-lg.svg": {
+      "figmaName": "icon/Menu / Hamburger_LG",
+      "nodeId": "1:324",
+      "hash": "5aba4cd1"
+    },
+    "icon-menu-hamburger-md.svg": {
+      "figmaName": "icon/Menu / Hamburger_MD",
+      "nodeId": "1:322",
+      "hash": "8f7e422a"
+    },
+    "icon-menu-menu-alt-01.svg": {
+      "figmaName": "icon/Menu / Menu_Alt_01",
+      "nodeId": "1:314",
+      "hash": "cb4c759a"
+    },
+    "icon-menu-menu-alt-02.svg": {
+      "figmaName": "icon/Menu / Menu_Alt_02",
+      "nodeId": "1:316",
+      "hash": "9fea1232"
+    },
+    "icon-menu-menu-alt-03.svg": {
+      "figmaName": "icon/Menu / Menu_Alt_03",
+      "nodeId": "1:334",
+      "hash": "6a74e240"
+    },
+    "icon-menu-menu-alt-04.svg": {
+      "figmaName": "icon/Menu / Menu_Alt_04",
+      "nodeId": "1:318",
+      "hash": "08ffd6ab"
+    },
+    "icon-menu-menu-alt-05.svg": {
+      "figmaName": "icon/Menu / Menu_Alt_05",
+      "nodeId": "1:320",
+      "hash": "34e63e64"
+    },
+    "icon-menu-menu-duo-lg.svg": {
+      "figmaName": "icon/Menu / Menu_Duo_LG",
+      "nodeId": "1:326",
+      "hash": "33284f02"
+    },
+    "icon-menu-menu-duo-md.svg": {
+      "figmaName": "icon/Menu / Menu_Duo_MD",
+      "nodeId": "1:338",
+      "hash": "d638ddf8"
+    },
+    "icon-menu-more-grid-big.svg": {
+      "figmaName": "icon/Menu / More_Grid_Big",
+      "nodeId": "1:332",
+      "hash": "8afba6b5"
+    },
+    "icon-menu-more-grid-small.svg": {
+      "figmaName": "icon/Menu / More_Grid_Small",
+      "nodeId": "1:330",
+      "hash": "caa34dc8"
+    },
+    "icon-menu-more-horizontal.svg": {
+      "figmaName": "icon/Menu / More_Horizontal",
+      "nodeId": "1:342",
+      "hash": "3bd380d1"
+    },
+    "icon-menu-more-vertical.svg": {
+      "figmaName": "icon/Menu / More_Vertical",
+      "nodeId": "1:328",
+      "hash": "e0b87295"
+    },
+    "icon-navigation-building-01.svg": {
+      "figmaName": "icon/Navigation / Building_01",
+      "nodeId": "1:517",
+      "hash": "7cffe644"
+    },
+    "icon-navigation-building-02.svg": {
+      "figmaName": "icon/Navigation / Building_02",
+      "nodeId": "1:519",
+      "hash": "8b4c119c"
+    },
+    "icon-navigation-building-03.svg": {
+      "figmaName": "icon/Navigation / Building_03",
+      "nodeId": "1:521",
+      "hash": "d6aaf62f"
+    },
+    "icon-navigation-building-04.svg": {
+      "figmaName": "icon/Navigation / Building_04",
+      "nodeId": "1:523",
+      "hash": "6faed7a7"
+    },
+    "icon-navigation-car-auto.svg": {
+      "figmaName": "icon/Navigation / Car_Auto",
+      "nodeId": "1:541",
+      "hash": "c2db4a64"
+    },
+    "icon-navigation-compass.svg": {
+      "figmaName": "icon/Navigation / Compass",
+      "nodeId": "1:527",
+      "hash": "be3ca20a"
+    },
+    "icon-navigation-flag.svg": {
+      "figmaName": "icon/Navigation / Flag",
+      "nodeId": "1:509",
+      "hash": "ed83f542"
+    },
+    "icon-navigation-globe.svg": {
+      "figmaName": "icon/Navigation / Globe",
+      "nodeId": "1:529",
+      "hash": "113c6686"
+    },
+    "icon-navigation-house-01.svg": {
+      "figmaName": "icon/Navigation / House_01",
+      "nodeId": "1:511",
+      "hash": "b78de38e"
+    },
+    "icon-navigation-house-02.svg": {
+      "figmaName": "icon/Navigation / House_02",
+      "nodeId": "1:513",
+      "hash": "1a46fc88"
+    },
+    "icon-navigation-house-03.svg": {
+      "figmaName": "icon/Navigation / House_03",
+      "nodeId": "1:515",
+      "hash": "ab6e988e"
+    },
+    "icon-navigation-house-add.svg": {
+      "figmaName": "icon/Navigation / House_Add",
+      "nodeId": "1:525",
+      "hash": "bfd34900"
+    },
+    "icon-navigation-house-check.svg": {
+      "figmaName": "icon/Navigation / House_Check",
+      "nodeId": "1:539",
+      "hash": "d0f56680"
+    },
+    "icon-navigation-house-close.svg": {
+      "figmaName": "icon/Navigation / House_Close",
+      "nodeId": "1:537",
+      "hash": "378f2074"
+    },
+    "icon-navigation-house-remove.svg": {
+      "figmaName": "icon/Navigation / House_Remove",
+      "nodeId": "1:535",
+      "hash": "e5805591"
+    },
+    "icon-navigation-map-pin.svg": {
+      "figmaName": "icon/Navigation / Map_Pin",
+      "nodeId": "1:531",
+      "hash": "fca231a8"
+    },
+    "icon-navigation-map.svg": {
+      "figmaName": "icon/Navigation / Map",
+      "nodeId": "1:507",
+      "hash": "5900ba94"
+    },
+    "icon-navigation-navigation.svg": {
+      "figmaName": "icon/Navigation / Navigation",
+      "nodeId": "1:533",
+      "hash": "9a6be862"
+    },
+    "icon-shape-circle.svg": {
+      "figmaName": "icon/Shape / Circle",
+      "nodeId": "1:33",
+      "hash": "610418ce"
+    },
+    "icon-shape-octagon.svg": {
+      "figmaName": "icon/Shape / Octagon",
+      "nodeId": "1:35",
+      "hash": "a8834cec"
+    },
+    "icon-shape-shield.svg": {
+      "figmaName": "icon/Shape / Shield",
+      "nodeId": "1:29",
+      "hash": "219c5140"
+    },
+    "icon-shape-square.svg": {
+      "figmaName": "icon/Shape / Square",
+      "nodeId": "1:31",
+      "hash": "178de957"
+    },
+    "icon-shape-triangle.svg": {
+      "figmaName": "icon/Shape / Triangle",
+      "nodeId": "1:39",
+      "hash": "eb53af81"
+    },
+    "icon-shape-wavy.svg": {
+      "figmaName": "icon/Shape / Wavy",
+      "nodeId": "1:37",
+      "hash": "ee3872f4"
+    },
+    "icon-system-bar-bottom.svg": {
+      "figmaName": "icon/System / Bar_Bottom",
+      "nodeId": "1:180",
+      "hash": "bad91cfb"
+    },
+    "icon-system-bar-left.svg": {
+      "figmaName": "icon/System / Bar_Left",
+      "nodeId": "1:182",
+      "hash": "53a8cb87"
+    },
+    "icon-system-bar-right.svg": {
+      "figmaName": "icon/System / Bar_Right",
+      "nodeId": "1:184",
+      "hash": "d9382181"
+    },
+    "icon-system-bar-top.svg": {
+      "figmaName": "icon/System / Bar_Top",
+      "nodeId": "1:186",
+      "hash": "b84cd147"
+    },
+    "icon-system-camera.svg": {
+      "figmaName": "icon/System / Camera",
+      "nodeId": "1:216",
+      "hash": "27f2b104"
+    },
+    "icon-system-code.svg": {
+      "figmaName": "icon/System / Code",
+      "nodeId": "1:228",
+      "hash": "3fda160d"
+    },
+    "icon-system-cylinder.svg": {
+      "figmaName": "icon/System / Cylinder",
+      "nodeId": "1:222",
+      "hash": "5c716bc8"
+    },
+    "icon-system-data.svg": {
+      "figmaName": "icon/System / Data",
+      "nodeId": "1:220",
+      "hash": "2d3700c4"
+    },
+    "icon-system-desktop-tower.svg": {
+      "figmaName": "icon/System / Desktop_Tower",
+      "nodeId": "1:178",
+      "hash": "6a3c81e3"
+    },
+    "icon-system-desktop.svg": {
+      "figmaName": "icon/System / Desktop",
+      "nodeId": "1:176",
+      "hash": "7cd62c32"
+    },
+    "icon-system-devices.svg": {
+      "figmaName": "icon/System / Devices",
+      "nodeId": "1:164",
+      "hash": "aa7710bf"
+    },
+    "icon-system-keyboard.svg": {
+      "figmaName": "icon/System / Keyboard",
+      "nodeId": "1:170",
+      "hash": "27604909"
+    },
+    "icon-system-laptop.svg": {
+      "figmaName": "icon/System / Laptop",
+      "nodeId": "1:198",
+      "hash": "0931099a"
+    },
+    "icon-system-mobile-button.svg": {
+      "figmaName": "icon/System / Mobile_Button",
+      "nodeId": "1:230",
+      "hash": "2b5091c1"
+    },
+    "icon-system-mobile.svg": {
+      "figmaName": "icon/System / Mobile",
+      "nodeId": "1:200",
+      "hash": "7a7f3e62"
+    },
+    "icon-system-monitor-play.svg": {
+      "figmaName": "icon/System / Monitor_Play",
+      "nodeId": "1:172",
+      "hash": "a9bb1387"
+    },
+    "icon-system-monitor.svg": {
+      "figmaName": "icon/System / Monitor",
+      "nodeId": "1:174",
+      "hash": "a818eee7"
+    },
+    "icon-system-mouse.svg": {
+      "figmaName": "icon/System / Mouse",
+      "nodeId": "1:208",
+      "hash": "a8cc0105"
+    },
+    "icon-system-moving-desk.svg": {
+      "figmaName": "icon/System / Moving_Desk",
+      "nodeId": "1:162",
+      "hash": "eaa137ac"
+    },
+    "icon-system-printer.svg": {
+      "figmaName": "icon/System / Printer",
+      "nodeId": "1:194",
+      "hash": "eb9dba5b"
+    },
+    "icon-system-qr-code.svg": {
+      "figmaName": "icon/System / Qr_Code",
+      "nodeId": "1:214",
+      "hash": "ef29d845"
+    },
+    "icon-system-save.svg": {
+      "figmaName": "icon/System / Save",
+      "nodeId": "1:196",
+      "hash": "317942c1"
+    },
+    "icon-system-tablet-button.svg": {
+      "figmaName": "icon/System / Tablet_Button",
+      "nodeId": "1:168",
+      "hash": "521d5540"
+    },
+    "icon-system-tablet.svg": {
+      "figmaName": "icon/System / Tablet",
+      "nodeId": "1:166",
+      "hash": "7a8e8208"
+    },
+    "icon-system-terminal.svg": {
+      "figmaName": "icon/System / Terminal",
+      "nodeId": "1:190",
+      "hash": "2223e8e8"
+    },
+    "icon-system-wifi-high.svg": {
+      "figmaName": "icon/System / Wifi_High",
+      "nodeId": "1:160",
+      "hash": "5068fe5a"
+    },
+    "icon-system-wifi-low.svg": {
+      "figmaName": "icon/System / Wifi_Low",
+      "nodeId": "1:204",
+      "hash": "33d39ae1"
+    },
+    "icon-system-wifi-medium.svg": {
+      "figmaName": "icon/System / Wifi_Medium",
+      "nodeId": "1:202",
+      "hash": "552f3d13"
+    },
+    "icon-system-wifi-none.svg": {
+      "figmaName": "icon/System / Wifi_None",
+      "nodeId": "1:158",
+      "hash": "d8e4f184"
+    },
+    "icon-system-wifi-off.svg": {
+      "figmaName": "icon/System / Wifi_Off",
+      "nodeId": "1:206",
+      "hash": "6e151611"
+    },
+    "icon-system-wifi-problem.svg": {
+      "figmaName": "icon/System / Wifi_Problem",
+      "nodeId": "1:218",
+      "hash": "d6821b6d"
+    },
+    "icon-system-window-check.svg": {
+      "figmaName": "icon/System / Window_Check",
+      "nodeId": "1:210",
+      "hash": "4a648f1b"
+    },
+    "icon-system-window-close.svg": {
+      "figmaName": "icon/System / Window_Close",
+      "nodeId": "1:188",
+      "hash": "6add5d40"
+    },
+    "icon-system-window-code-block.svg": {
+      "figmaName": "icon/System / Window_Code_Block",
+      "nodeId": "1:226",
+      "hash": "f64c9730"
+    },
+    "icon-system-window-sidebar.svg": {
+      "figmaName": "icon/System / Window_Sidebar",
+      "nodeId": "1:212",
+      "hash": "8b010f29"
+    },
+    "icon-system-window-terminal.svg": {
+      "figmaName": "icon/System / Window_Terminal",
+      "nodeId": "1:224",
+      "hash": "bb872c6b"
+    },
+    "icon-system-window.svg": {
+      "figmaName": "icon/System / Window",
+      "nodeId": "1:192",
+      "hash": "24f0c2f3"
+    },
+    "icon-user-user-01.svg": {
+      "figmaName": "icon/User / User_01",
+      "nodeId": "1:125",
+      "hash": "9055f138"
+    },
+    "icon-user-user-02.svg": {
+      "figmaName": "icon/User / User_02",
+      "nodeId": "1:117",
+      "hash": "9e72b2f2"
+    },
+    "icon-user-user-03.svg": {
+      "figmaName": "icon/User / User_03",
+      "nodeId": "1:121",
+      "hash": "57ad01bb"
+    },
+    "icon-user-user-add.svg": {
+      "figmaName": "icon/User / User_Add",
+      "nodeId": "1:129",
+      "hash": "62acaa0a"
+    },
+    "icon-user-user-card-id.svg": {
+      "figmaName": "icon/User / User_Card_ID",
+      "nodeId": "1:137",
+      "hash": "2a33a5f7"
+    },
+    "icon-user-user-check.svg": {
+      "figmaName": "icon/User / User_Check",
+      "nodeId": "1:139",
+      "hash": "904c66bd"
+    },
+    "icon-user-user-circle.svg": {
+      "figmaName": "icon/User / User_Circle",
+      "nodeId": "1:131",
+      "hash": "8f85b06f"
+    },
+    "icon-user-user-close.svg": {
+      "figmaName": "icon/User / User_Close",
+      "nodeId": "1:127",
+      "hash": "55928775"
+    },
+    "icon-user-user-remove.svg": {
+      "figmaName": "icon/User / User_Remove",
+      "nodeId": "1:141",
+      "hash": "c0c5c337"
+    },
+    "icon-user-user-square.svg": {
+      "figmaName": "icon/User / User_Square",
+      "nodeId": "1:133",
+      "hash": "514118e0"
+    },
+    "icon-user-user-voice.svg": {
+      "figmaName": "icon/User / User_Voice",
+      "nodeId": "1:135",
+      "hash": "230fbd09"
+    },
+    "icon-user-users-group.svg": {
+      "figmaName": "icon/User / Users_Group",
+      "nodeId": "1:123",
+      "hash": "2f6635bc"
+    },
+    "icon-user-users.svg": {
+      "figmaName": "icon/User / Users",
+      "nodeId": "1:119",
+      "hash": "b089be84"
+    },
+    "icon-warning-circle-check.svg": {
+      "figmaName": "icon/Warning / Circle_Check",
+      "nodeId": "1:469",
+      "hash": "0888fded"
+    },
+    "icon-warning-circle-help.svg": {
+      "figmaName": "icon/Warning / Circle_Help",
+      "nodeId": "1:473",
+      "hash": "a65ff276"
+    },
+    "icon-warning-circle-warning.svg": {
+      "figmaName": "icon/Warning / Circle_Warning",
+      "nodeId": "1:459",
+      "hash": "e3bc8823"
+    },
+    "icon-warning-help.svg": {
+      "figmaName": "icon/Warning / Help",
+      "nodeId": "1:481",
+      "hash": "75e9d06a"
+    },
+    "icon-warning-info.svg": {
+      "figmaName": "icon/Warning / Info",
+      "nodeId": "1:447",
+      "hash": "44f16766"
+    },
+    "icon-warning-octagon-check.svg": {
+      "figmaName": "icon/Warning / Octagon_Check",
+      "nodeId": "1:471",
+      "hash": "9bac8562"
+    },
+    "icon-warning-octagon-help.svg": {
+      "figmaName": "icon/Warning / Octagon_Help",
+      "nodeId": "1:445",
+      "hash": "40303c82"
+    },
+    "icon-warning-octagon-warning.svg": {
+      "figmaName": "icon/Warning / Octagon_Warning",
+      "nodeId": "1:475",
+      "hash": "43b218ea"
+    },
+    "icon-warning-shield-check.svg": {
+      "figmaName": "icon/Warning / Shield_Check",
+      "nodeId": "1:463",
+      "hash": "185223e6"
+    },
+    "icon-warning-shield-warning.svg": {
+      "figmaName": "icon/Warning / Shield_Warning",
+      "nodeId": "1:451",
+      "hash": "5d7d1489"
+    },
+    "icon-warning-square-check.svg": {
+      "figmaName": "icon/Warning / Square_Check",
+      "nodeId": "1:465",
+      "hash": "90ce3e41"
+    },
+    "icon-warning-square-help.svg": {
+      "figmaName": "icon/Warning / Square_Help",
+      "nodeId": "1:477",
+      "hash": "22435104"
+    },
+    "icon-warning-square-warning.svg": {
+      "figmaName": "icon/Warning / Square_Warning",
+      "nodeId": "1:453",
+      "hash": "b5482c22"
+    },
+    "icon-warning-stop-sign.svg": {
+      "figmaName": "icon/Warning / Stop_Sign",
+      "nodeId": "1:449",
+      "hash": "b6e4e866"
+    },
+    "icon-warning-triangle-check.svg": {
+      "figmaName": "icon/Warning / Triangle_Check",
+      "nodeId": "1:467",
+      "hash": "c87489e5"
+    },
+    "icon-warning-triangle-warning.svg": {
+      "figmaName": "icon/Warning / Triangle_Warning",
+      "nodeId": "1:455",
+      "hash": "307ae4d3"
+    },
+    "icon-warning-warning.svg": {
+      "figmaName": "icon/Warning / Warning",
+      "nodeId": "1:457",
+      "hash": "53acfb51"
+    },
+    "icon-warning-wavy-check.svg": {
+      "figmaName": "icon/Warning / Wavy_Check",
+      "nodeId": "1:483",
+      "hash": "75b75e42"
+    },
+    "icon-warning-wavy-help.svg": {
+      "figmaName": "icon/Warning / Wavy_Help",
+      "nodeId": "1:479",
+      "hash": "92b26522"
+    },
+    "icon-warning-wavy-warning.svg": {
+      "figmaName": "icon/Warning / Wavy_Warning",
+      "nodeId": "1:461",
+      "hash": "3b61c740"
+    }
+  }
+}
